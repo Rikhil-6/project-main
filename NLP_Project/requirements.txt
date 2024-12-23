@@ -1,0 +1,11 @@
+bertopic==0.16.4
+datasets==3.2.0
+gensim==4.3.3
+numpy==1.26.4
+pandas==2.2.2
+rouge_score==0.1.2
+scikit_learn==1.5.1
+spacy==3.8.2
+torch==2.3.1
+tqdm==4.66.5
+transformers==4.44.0

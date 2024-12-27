@@ -1,0 +1,8 @@
+fake_useragent==2.0.3
+matplotlib==3.7.2
+pandas==2.2.2
+requests==2.32.3
+seaborn==0.13.2
+spacy==3.8.2
+transformers==4.44.0
+yfinance==0.2.51

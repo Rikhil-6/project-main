@@ -1,6 +1,6 @@
 ## Welcome to my main Projects folder! 
 
-I am a second-year undergraduate at the National University of Singapore (NUS) with a deep passion for data science, machine learning, and building impactful projects. 
+I, Rikhil Singh, am an undergraduate student at the National University of Singapore (NUS) with a deep passion for data science, machine learning, and building impactful projects. 
 Featured in this repository are my projects revolving around data science - spanning a wide range of domains, including:
 
 - Data Visualisation: Plotting Insightful and Aesthetic Plots with Libraries like Seaborn, Matplotlib and Plotly

@@ -9,7 +9,7 @@ Featured in this repository are my projects revolving around data science - span
 - Natural Language Processing (NLP): Developing models and tools for textual analysis and language understanding.
 - Computer Vision (CV): Crafting solutions that bring vision-based machine learning applications to life.
 
-and more!
+*and more!*
 
 I have a special fondness for tree-based machine learning algorithms and thrive on tackling complex problems. My journey also includes exploring supervised, unsupervised, and reinforcement learning techniques, and applying them creatively across my projects.
 

@@ -1,0 +1,7 @@
+matplotlib==3.7.2
+mlxtend==0.23.3
+numpy==1.26.4
+pandas==2.2.2
+igraph==0.11.8
+pycairo==1.27.0 
+pyvis==0.3.2

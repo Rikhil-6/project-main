@@ -1,0 +1,5 @@
+langchain==0.3.15
+langchain_openai==0.3.2
+langchain-community==0.3.15
+pandas==2.2.3
+SQLAlchemy==2.0.32
